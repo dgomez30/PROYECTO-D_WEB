@@ -1,0 +1,15 @@
+//INSTALAR DEPENDENCIAS
+npm install express
+npm install cors
+npm install mongoose express jsonwebtoken dotenv bcryptjs
+npm install nodemon -D //permite actualizar los cambios en el codigo al guardar (-D es para utilizar el paquete solo en desarrollo)
+npm install jsonwebtoken
+npm install bcryptjs
+npm i -s csv-parser
+npm i csvtojson
+npm install telegraf / npm i node-telegram-bot-api
+npm install express body-parser cors express-fileupload morgan lodash --save
+
+//EJECUTAR
+npm run dev
+node index.js
